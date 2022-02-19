@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Có điều gì muốn nói với em không ???',
     btnReply: 'Gửi ',
     reply: 'Rất xinh gái nhé!',
-    mess: 'Em biết mà 🥰.',
+    mess: 'Em biết mà 🥰',
     messDesc: '',
     btnAccept: 'Ok em',
     messLink: 'https://m.me/anhduong.sun.3' //link mess của các bạn. VD: https://m.me/nam.nodemy
