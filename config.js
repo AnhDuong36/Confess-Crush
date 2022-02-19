@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Rất xinh gái nhé!',
     mess: 'Em biết mà 🥰',
     messDesc: '',
-    btnAccept: 'Ok em',
+    btnAccept: 'Ok emm',
     messLink: 'https://m.me/anhduong.sun.3' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
